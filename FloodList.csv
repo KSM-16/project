@@ -1,4 +1,4 @@
-Year,Flooded_area (km2),Percentage_of_total_area,Number_of_deaths,Crop_damage(millionTons),Total_financial_loss (millionTaka)
+Year,Flooded_area(km2),Percentage_of_total_area,Number_of_deaths,Crop_damage(millionTons),Total_financial_loss (millionTaka)
 1953,,,,0.6,
 1954,36800,25.77,112,0.7,1500
 1955,50500,35.37,129,,
